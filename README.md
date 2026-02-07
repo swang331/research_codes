@@ -1,6 +1,8 @@
 # research_codes
-This repo is for storing and sharing all ElAc related Python scripts
-You can find script that helps with: 
-1. making a station map
-2. making input files for ElAc
-3. scrips for post simulation analysi
+This repo stores all related codes on the ElAc simulation projects. 
+One can find these codes in Python that: 
+1. make station maps
+2. make input files for ElAc
+3. post data analysis
+4. and more to come!
+
