@@ -6,3 +6,4 @@ One can find these codes in Python that:
 3. post data analysis
 4. and more to come!
 
+Please contact swang18@alaska.edu for any issues
